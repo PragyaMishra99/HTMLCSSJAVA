@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>Module 2 Lab</title>
-        <link href="CssFile.css" rel="stylesheet">
+        <link href="Module2CssFile.css" rel="stylesheet">
     </head>
     <body>
         <h1>Our Menu</h1>
